@@ -1,1 +1,1 @@
-team project
+This directory implements webpage design.
